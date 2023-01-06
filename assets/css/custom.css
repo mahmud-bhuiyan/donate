@@ -1,7 +1,9 @@
-*{
-    margin: 0;
+* {
+  margin: 0;
+  /* font-family: "Dancing Script", cursive; */
+  font-family: "Open Sans", sans-serif;
 }
 
-.header-img{
-    width: 100%;
+.image {
+  width: 100%;
 }
